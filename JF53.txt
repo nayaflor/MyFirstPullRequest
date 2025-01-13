@@ -1,2 +1,2 @@
-git remote add origin https://github.com/nayaflor/COGS108_Repo.git
-git push -u origin master
+$ git remote add origin https://github.com/nayaflor/COGS108_Repo.git
+$ git push -u origin master
